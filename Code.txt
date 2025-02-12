@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Past Papers Archive</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Past Papers Archive</h1>
+    </header>
+    
+    <main>
+        <section class="subject">
+            <h2>Mathematics</h2>
+            <ul>
+                <li><a href="papers/math-2023.pdf" download>Math 2023 Paper</a></li>
+                <li><a href="papers/math-2022.pdf" download>Math 2022 Paper</a></li>
+            </ul>
+        </section>
+        
+        <section class="subject">
+            <h2>Science</h2>
+            <ul>
+                <li><a href="papers/science-2023.pdf" download>Science 2023 Paper</a></li>
+                <li><a href="papers/science-2022.pdf" download>Science 2022 Paper</a></li>
+            </ul>
+        </section>
+    </main>
+    
+    <footer>
+        <p>&copy; 2025 Past Papers Archive. All rights reserved.</p>
+    </footer>
+    
+    <script src="script.js"></script>
+</body>
+</html>
